@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm a Frontend Developer.
-- 🌱 I’m from Korea, but living in Germany
+- 🌱 I’m from Korea, but working in Germany
 - 📫 How to reach me: de24world@gmail.com
 
 <!--
