@@ -5,10 +5,10 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:de24world@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-004b7c?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hosoolee/) 
-[![Xing Badge](https://img.shields.io/badge/Xing%20Blog-1eb031?style=flat&logo=Xing&logoColor=white)](https://www.xing.com/profile/HoSoo_Lee/cv) 
-[![Github Blog(ko)](https://img.shields.io/badge/Github%20Blog-555263?style=flat&logo=Github&logoColor=white)](https://de24world.github.io/)
-[![Notion Profile(ko)](https://img.shields.io/badge/Notion%20Profile(ko)-555263?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/ef46c4866d714249b4d814dd3e3d0b9a)
-[![Notion Profile(en)](https://img.shields.io/badge/Notion%20Profile(en)-555263?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/HoSoo-Lee-01e214c28f6b4fe3b8ffea19b9afc374)
+[![Xing Badge](https://img.shields.io/badge/Xing-0698A0?style=flat&logo=Xing&logoColor=white)](https://www.xing.com/profile/HoSoo_Lee/cv) 
+[![Github Blog(ko)](https://img.shields.io/badge/Github%20Blog-8b949e?style=flat&logo=Github&logoColor=white)](https://de24world.github.io/)
+[![Notion Profile(ko)](https://img.shields.io/badge/Notion%20Profile(ko)-111111?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/ef46c4866d714249b4d814dd3e3d0b9a)
+[![Notion Profile(en)](https://img.shields.io/badge/Notion%20Profile(en)-111111?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/HoSoo-Lee-01e214c28f6b4fe3b8ffea19b9afc374)
 
 ### Hi there 👋
 
