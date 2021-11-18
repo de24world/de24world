@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
 ### Hi there 👋
 
 - 🔭 I'm a Frontend Developer.
@@ -23,4 +26,4 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=de24world)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fde24world%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
