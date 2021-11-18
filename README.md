@@ -1,6 +1,15 @@
 [![header](https://capsule-render.vercel.app/api?text=Notion%20Profile&type=soft&animation=blinking)](https://www.notion.so/HoSoo-Lee-01e214c28f6b4fe3b8ffea19b9afc374)
 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fde24world%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:de24world@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hosoolee/) 
+[![Xing Badge](https://img.shields.io/badge/Daily%20Blog-1eb031?style=flat&logo=Xing&logoColor=white)](https://www.xing.com/profile/HoSoo_Lee/cv) 
+[![Github Blog(ko)](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logo=Github&logoColor=white)](https://de24world.github.io/)
+[![Notion Profile(ko)](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/ef46c4866d714249b4d814dd3e3d0b9a)
+[![Notion Profile(en)](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/HoSoo-Lee-01e214c28f6b4fe3b8ffea19b9afc374)
+
 ### Hi there 👋
 
 - 🔭 I'm a Frontend Developer.
@@ -26,4 +35,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=de24world)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fde24world%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
