@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=500&section=header&text=Notion%20Profile&animation=blink&fontSize=90)](https://www.notion.so/HoSoo-Lee-01e214c28f6b4fe3b8ffea19b9afc374)
+[![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=500&section=header&text=Notion%20Profile&animation=blink&fontSize=90)](https://www.notion.so/HoSoo-Lee-01e214c28f6b4fe3b8ffea19b9afc374)
 
 
 ### Hi there 👋
