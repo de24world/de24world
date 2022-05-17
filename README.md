@@ -13,7 +13,6 @@
 
 - 🔭 I'm a Frontend Developer.
 - 🌱 I’m from Korea, but working in Germany
-- 📫 How to reach me: de24world@gmail.com
 
 <!--
 **de24world/de24world** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
