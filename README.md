@@ -2,6 +2,9 @@
 <h3 align="center">Web Engineer focused on Performance, SEO & Scalable Web Architecture</h3>
 <h4 align="center">Based in Germany 🇩🇪</h4>
 
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:de24world@gmail.com)
+
 ---
 
 ### 👨‍💻 About Me
