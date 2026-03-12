@@ -5,6 +5,13 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:de24world@gmail.com)
 
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=de24world&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de24world&layout=compact&theme=tokyonight"/>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -60,9 +67,4 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=de24world&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de24world&layout=compact&theme=tokyonight"/>
-</p>
