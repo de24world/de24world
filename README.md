@@ -30,7 +30,7 @@
 ### 🎯 Areas of Expertise
 
 ⚡ **Web Performance Optimization**
-- PageSpeed optimization (40 → 82)
+- PageSpeed optimization
 - Core Web Vitals improvement
 
 🔎 **Technical SEO**
