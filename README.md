@@ -4,6 +4,10 @@
 
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=707070&text=Get%20In%20Touch&fontSize=40" />
+</p>
+
+<p align="center">
   <a href="mailto:de24world@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
