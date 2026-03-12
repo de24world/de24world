@@ -3,7 +3,11 @@
 <h4 align="center">Based in Germany 🇩🇪</h4>
 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:de24world@gmail.com)
+<p align="center">
+  <a href="mailto:de24world@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+</p>
 
 ### 📊 GitHub Stats
 
