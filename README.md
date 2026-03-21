@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Lee</h1>
-<h3 align="center">Web Engineer focused on Performance, SEO & Scalable Web Architecture</h3>
+<h3 align="center">Web Engineer focused on Performance, SEO & Scalable Web  & APP Architecture</h3>
 <h4 align="center">Based in Germany 🇩🇪</h4>
 
 
@@ -23,6 +23,7 @@
 
 - 🇰🇷 From Korea, currently working in **Germany**
 - 🌐 Web Engineer experienced in **large-scale global web services**
+- 📱 Side Projects: Developing cross-platform mobile applications using **React Native & Expo**
 - ⚡ Specialized in **performance optimization, SEO, and scalable frontend architecture**
 - ☁ Experience with **cloud infrastructure, CDN, and CI/CD pipelines**
 
@@ -30,12 +31,18 @@
 
 ### 🎯 Areas of Expertise
 
-⚡ **Web Performance Optimization**
+⚡ **Web Performance Optimisation**
 - PageSpeed optimization
 - Core Web Vitals improvement
 
+📱 **Mobile App Development (Side Projects)**
+- Cross-platform development with **React Native**
+- Fast prototyping and deployment using **Expo**
+- Integration of mobile-specific features and UI/UX
+
+
 🔎 **Technical SEO**
-- SEO optimization for large e-commerce websites
+- SEO optimisation for large e-commerce websites
 - Tracking and analytics integration
 
 🌍 **Large-scale Web Services**
@@ -52,7 +59,8 @@
 
 🔐 **Web Security Concepts**
 - Web security best practices
-- CDN / network level optimization
+- CDN / network level optimisation
+
 
 ---
 
@@ -70,6 +78,8 @@
 #### Tools
 <img src="https://skillicons.dev/icons?i=git,webpack,vite" />
 
+#### Mobile App
+<img src="https://skillicons.dev/icons?i=reactnative,expo" />
 ---
 
 ### 📊 GitHub Stats
