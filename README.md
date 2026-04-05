@@ -67,18 +67,21 @@
 ### 🛠 Tech Stack
 
 #### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,bootstrap,materialui,styledcomponents,sass,threejs" />
 
 #### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,apollo,mongodb,mysql,postgres,supabase,firebase" />
 
 #### DevOps / Cloud
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,nginx,vercel,workers,githubactions" />
 
 #### Tools
-<img src="https://skillicons.dev/icons?i=git,webpack,vite" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vim,webpack,vite,babel,figma,postman,linux,ubuntu,kali,powershell,regex,vitest,npm,pnpm,yarn" />
 
 #### Mobile App
-<img src="https://skillicons.dev/icons?i=reactnative,expo" />
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+#### Others
+<img src="https://skillicons.dev/icons?i=atom,discord,gmail,md,svg,wordpress" />
 
 
