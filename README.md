@@ -80,6 +80,5 @@
 
 #### Mobile App
 <img src="https://skillicons.dev/icons?i=reactnative,expo" />
----
 
 
