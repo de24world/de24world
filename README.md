@@ -82,11 +82,4 @@
 <img src="https://skillicons.dev/icons?i=reactnative,expo" />
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=de24world&show_icons=true&theme=tokyonight" />
-  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de24world&layout=compact&theme=tokyonight" />
-</p>
-
 
